@@ -13,3 +13,5 @@ All blacklisted numbers are thrown away, and a clean downloadable list of phone 
 Automatically copies a phone number from the preselected .csv list of numbers for the day. Once the copied number is pasted, copies the next one. In case user needs to copy something else and presses ctrl+c, saves the state and halts the program. 
 
 Provides call history in a separrate window. Makes the workflow more efficient and smooth while also saving some time.
+
+Sped up version, also eliminates the need to physically press 'enter' to make the call. 
